@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "username": "Budi",
+      "email": "budi@gmail.com",
+      "password": "Asd1234"
+    },
+    {
+      "id": "fd47",
+      "username": "Caca",
+      "email": "caca@gmail.com",
+      "password": "Rosdian12"
+    },
+    {
+      "id": "62c9",
+      "username": "Coco",
+      "email": "coco@gmail.com",
+      "password": "asd12345"
+    },
+    {
+      "id": "2a58",
+      "username": "xixaxi",
+      "email": "dathari@gmail.com",
+      "password": "rosdian12"
+    },
+    {
+      "id": "d533",
+      "username": "Cacad",
+      "email": "cacad@gmail.com",
+      "password": "Rosdian12"
+    }
+  ]
+}
